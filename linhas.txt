@@ -1,0 +1,5 @@
+1;Sao Paulo;Rio de Janeiro;08:00;75.50
+2;Campinas;Santos;10:30;45.00
+3;Rio de Janeiro;Sao Paulo;14:00;80.00
+4;Belo Horizonte;Vitoria;09:15;120.00
+5;Curitiba;Florianopolis;11:45;90.00
